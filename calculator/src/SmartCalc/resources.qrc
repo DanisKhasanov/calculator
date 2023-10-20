@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"> 
+        <file>dark3.png</file>
+       
+    </qresource>
+</RCC>
