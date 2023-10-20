@@ -34,7 +34,7 @@
 
 ## Примеры использования
 1. Главное меню: ![img](calculator/misc/rus/images/главноеменю.png)
-2. Расширенный вид: ![img](calculator/misc/rus/images/расширенныйвид.png)
+2. Расширенный вид: ![img](calculator/misc/rus/images/расширенныйвид.png)
 3. График: ![img](calculator/misc/rus/images/график.png)
 4. Кредитный калькулятор: ![img](calculator/misc/rus/images/кредитныйкалькулятор.png)
 5. Смена темы: ![img](calculator/misc/rus/images/сменатемы.png)
